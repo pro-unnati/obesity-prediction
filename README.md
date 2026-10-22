@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Obesity Prediction System
 
 A Machine Learning-based web application that predicts a person's weight category based on their health and lifestyle information. The application uses a trained Machine Learning model and Streamlit to provide an interactive prediction experience.
@@ -114,3 +115,7 @@ This project is developed for educational purposes. Its predictions are based on
 **Unnati Gupta**
 
 B.Tech Information Technology Student
+=======
+# obesity-prediction
+Machine Learning based Obesity Risk Prediction using Streamlit 
+>>>>>>> c0703d3cddcaed1926fc1602b93b4c20901a2f71
